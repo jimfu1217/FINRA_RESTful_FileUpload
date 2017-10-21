@@ -27,7 +27,7 @@ public class FileDaoImpl implements FileDao{
 
     @Override
     public List<UploadFile> getAllFile() {
-        Query q = em.createQuery("SELECT file FROM File file");
+        Query q = em.createQuery("SELECT file FROM FILE file");
         return q.getResultList();
     }
 }
