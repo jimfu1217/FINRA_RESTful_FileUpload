@@ -12,5 +12,5 @@ After run the project, you can use Chrome postman plugin to test the API, localh
 URI| HttpMethod | Description  
 ---|---| ---   
 /files | Post | Upload a file to the memory
-/files  | Get | Get all files' metadata stored in the database
+/fileInfo  | Get | Get all files' metadata stored in the database
 /files/{id} | Get | Find the file's metadata by file id
