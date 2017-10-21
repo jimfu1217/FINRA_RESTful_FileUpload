@@ -7,9 +7,10 @@ API to upload a file with a few meta-data fields: file Id, file Name, file path
 
 Persist meta-data in persistent store in memory database Derby.
 
-You can use Chrome postman plugin to test the API
+After run the project, you can use Chrome postman plugin to test the API, localhost:8080/
+
 URI| HttpMethod | Description  
---- | --- | ---   
+---|---| ---   
 /files | Post | Upload a file to the memory
 /files  | Get | Get all files' metadata stored in the database
 /files/{id} | Get | Find the file's metadata by file id
