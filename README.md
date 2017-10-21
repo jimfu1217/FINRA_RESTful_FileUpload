@@ -1,5 +1,5 @@
 # FINRA_RESTful_FileUpload
-This is a project for FINRA coding exercie.
+This is a project for FINRA coding exercise.
 
 Developed a RESTful API for file upload with Spring-boot.
 
