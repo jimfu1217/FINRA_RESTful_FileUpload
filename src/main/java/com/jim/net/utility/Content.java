@@ -1,5 +1,7 @@
 package com.jim.net.utility;
-
+/**
+ * Created by jim fu on 17/10/23.
+ */
 import java.io.File;
 
 import com.jim.net.entity.UploadFile;

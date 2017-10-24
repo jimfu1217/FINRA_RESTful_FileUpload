@@ -1,5 +1,7 @@
 package com.jim.net.entity;
-
+/**
+ * Created by jim fu on 17/10/23.
+ */
 
 import javax.persistence.*;
 import java.io.Serializable;
